@@ -1,0 +1,5 @@
+compare 1.0 1.5
+sub 0 0.5
+repay
+add 1.0 0.15
+multi 1.3

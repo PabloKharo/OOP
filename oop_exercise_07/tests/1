@@ -1,0 +1,8 @@
+create 1
+insert triangle -0.0775127 0.289281 0.788513 -0.211281 0.789 0.789
+insert square 0 0 10 10
+insert octagon 1 1 10 10
+insert triangle 0 0 1 0 0.5 0.866
+print
+delete 1
+print

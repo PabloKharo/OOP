@@ -1,0 +1,8 @@
+create 1
+insert square 0 0 10 10
+insert octagon 1 1 10 10
+print
+undo
+print
+undo
+print
